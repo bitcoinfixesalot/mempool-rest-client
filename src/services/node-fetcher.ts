@@ -1,4 +1,4 @@
-import { RestClient, ApiResponse } from '../rest-client';
+import { RestClient, ApiResponse } from '../clients/rest-client';
 
 export class NodeFetcher {
   private restClient: RestClient;
