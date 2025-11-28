@@ -1,4 +1,5 @@
 import { RestClient, ApiResponse } from '../clients/rest-client';
+import { NodeData } from '../data/mempool-node-data';
 
 export class NodeFetcher {
   private restClient: RestClient;
@@ -7,13 +8,16 @@ export class NodeFetcher {
     this.restClient = new RestClient(baseUrl);
   }
 
-  async fetchMultiple(paths: string[]): Promise<ApiResponse[]> {
-    const results: ApiResponse[] = [];
+  async fetchMultiple(paths: string[]): Promise<NodeData[]> {
+    const results: NodeData[] = [];
 
     for (const path of paths) {
       try {
         const response = await this.restClient.get(path);
-        results.push(response);
+        const nodeData: NodeData = response.data;
+        if(nodeData.opened_channel_count >10) {
+            results.push(response.data);
+        }
       } catch (error) {
         console.error(`Failed to fetch ${path}`);
       }
