@@ -3,7 +3,7 @@ import { extractNodeIds } from './data/nodeid-extractor';
 
 
 async function main(): Promise<void> {
-  const baseUrl = "https://yx3wrhufcfkiaetfrsgjx52qxx6emczrn5s7ftt6qpqlbbdfvyrebayd.local/";
+  const baseUrl = "https://yx3wrhufcfkiaetfrsgjx52qxx6emczrn5s7ftt6qpqlbbdfvyrebayd.local/api/v1/lightning/nodes/";
 
   const fetcher = new NodeFetcher(baseUrl);
   
