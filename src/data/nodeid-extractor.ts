@@ -1,4 +1,6 @@
 import * as fs from 'fs';
+import * as path from 'path';
+
 
 // Define the interfaces
 interface Node {
@@ -20,7 +22,9 @@ interface NodesData {
 
 // Function to extract node IDs
 export function extractNodeIds(): string[] {
-  const fileContent = fs.readFileSync('./listnodes.json', 'utf-8');
+  const filePath = path.join(__dirname, '../listnodes.json');
+    console.log(`Reading node data from: ${filePath}`);
+  const fileContent = fs.readFileSync(filePath, 'utf-8');
   const data: NodesData = JSON.parse(fileContent);
   
   return data.nodes.map(node => node.nodeid);
