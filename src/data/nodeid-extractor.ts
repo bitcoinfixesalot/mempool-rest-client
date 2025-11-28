@@ -3,7 +3,7 @@ import * as path from 'path';
 
 
 // Define the interfaces
-interface Node {
+interface NodeJson {
   nodeid: string;
   alias: string;
   color: string;
@@ -16,8 +16,8 @@ interface Node {
   }>;
 }
 
-interface NodesData {
-  nodes: Node[];
+interface NodesJsonData {
+  nodes: NodeJson[];
 }
 
 // Function to extract node IDs
@@ -25,7 +25,7 @@ export function extractNodeIds(): string[] {
   const filePath = path.join(__dirname, '../listnodes.json');
     console.log(`Reading node data from: ${filePath}`);
   const fileContent = fs.readFileSync(filePath, 'utf-8');
-  const data: NodesData = JSON.parse(fileContent);
+  const data: NodesJsonData = JSON.parse(fileContent);
   
   return data.nodes.map(node => node.nodeid);
 }
