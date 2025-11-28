@@ -1,14 +1,25 @@
-import axios from 'axios';
+import { NodeFetcher } from './services/node-fetcher';
+import { extractNodeIds } from './data/nodeid-extractor';
 
-async function fetchData(url: string): Promise<void> {
+
+async function main(): Promise<void> {
+  const baseUrl = "https://yx3wrhufcfkiaetfrsgjx52qxx6emczrn5s7ftt6qpqlbbdfvyrebayd.local/";
+
+  const fetcher = new NodeFetcher(baseUrl);
+  
   try {
-    const response = await axios.get(url);
-    console.log('Status:', response.status);
-    console.log('Data:', response.data);
+    const nodeids = extractNodeIds();
+    const results = await fetcher.fetchMultiple(nodeids);
+    
+    console.log('\nAll results collected:');
+    results.forEach(result => {
+      console.log(`\nURL: ${result.url}`);
+      console.log(`Status: ${result.status}`);
+      console.log(`Data: ${result.data}`);      
+    });
   } catch (error) {
-    console.error('Error fetching data:', error);
+    console.error('Failed to fetch data:', error);
   }
 }
 
-// Example usage
-fetchData('https://api.github.com/users/github');
+main();
