@@ -21,11 +21,10 @@ export class RestClient {
   async get(path: string): Promise<ApiResponse> {
     try {
       const url = `${this.baseUrl}/${path}`;
-      //console.log(`Fetching: ${url}`);
       
       const response = await this.axiosInstance.get(path);
-      console.log(`Response from ${url}:`);
-      console.log(response.data);
+      // console.log(`Response from ${url}:`);
+      // console.log(response.data);
       return {
         url: url,
         data: response.data,
