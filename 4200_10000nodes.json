@@ -1,0 +1,6594 @@
+[
+  {
+    "public_key": "027a9d7e95be66eb8933e4a8549a2fd42d6f18726d89cedfa7fec6fb00040041c6",
+    "alias": "Tallship.Capital ⛵️",
+    "first_seen": 1748969446,
+    "updated_at": 1764323743,
+    "color": "#0a6cd8",
+    "sockets": "37.205.14.38:9735,5wgq4mbod4zdlivmkzxwliokt4ovhnw5jjfggjrcphn3aqta2fnomuqd.onion:9735",
+    "as_number": 24971,
+    "city_id": null,
+    "country_id": 3077311,
+    "subdivision_id": null,
+    "longitude": 14.411,
+    "latitude": 50.0853,
+    "iso_code": "CZ",
+    "as_organization": "Master Internet s.r.o.",
+    "city": null,
+    "country": {
+      "de": "Tschechien",
+      "en": "Czechia",
+      "es": "Chequia",
+      "fr": "Tchéquie",
+      "ja": "チェコ共和国",
+      "pt-BR": "Chéquia",
+      "ru": "Чехия",
+      "zh-CN": "捷克"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 98,
+    "capacity": "734092468",
+    "opened_channel_count": 98,
+    "closed_channel_count": 2,
+    "custom_records": {}
+  },
+  {
+    "public_key": "029ad9d050b30395dc80bec56c4ac5887e696ebf38eabaa395f5d71ebc9eb353fb",
+    "alias": "Girino's LND Node",
+    "first_seen": 1745084589,
+    "updated_at": 1764323691,
+    "color": "#3399ff",
+    "sockets": "b3pje4vztlrbilix7wp6fisyrdflbrx232v75xl4eyx4hjn2756avkyd.onion:9735,198.46.160.216:9735",
+    "as_number": 36352,
+    "city_id": null,
+    "country_id": 6252001,
+    "subdivision_id": null,
+    "longitude": -97.822,
+    "latitude": 37.751,
+    "iso_code": "US",
+    "as_organization": "AS-COLOCROSSING",
+    "city": null,
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020088a8251a1",
+    "active_channel_count": 74,
+    "capacity": "255240939",
+    "opened_channel_count": 74,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03dd913490a6152292addba62644f458e3d7261fa939ff50ccfbc5af444e6b82e4",
+    "alias": "Skyweir",
+    "first_seen": 1750009111,
+    "updated_at": 1764319934,
+    "color": "#869ef3",
+    "sockets": "jbed6rsz32pjjf5qqvwc7kuxazrt2eaare4a3kqfw3h6p4pyejwr6oad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 56,
+    "capacity": "196730184",
+    "opened_channel_count": 56,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03e875c708839f5c19cc2289c8eca9f02b9f3ab933e30a37a3cb28993b13663d57",
+    "alias": "Medium of Exchange",
+    "first_seen": 1747876085,
+    "updated_at": 1764323470,
+    "color": "#923aa1",
+    "sockets": "54.71.27.149:20546,7v4xivskunkzfa7htzg35l57flewbwhx2abqps7grhurob4dustdvwid.onion:9735",
+    "as_number": 16509,
+    "city_id": 5714964,
+    "country_id": 6252001,
+    "subdivision_id": 5744337,
+    "longitude": -119.7257,
+    "latitude": 45.8234,
+    "iso_code": "US",
+    "as_organization": "AMAZON-02",
+    "city": {
+      "en": "Boardman",
+      "ru": "Бордман"
+    },
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": {
+      "de": "Oregon",
+      "en": "Oregon",
+      "es": "Oregón",
+      "fr": "Oregon",
+      "ja": "オレゴン州",
+      "pt-BR": "Oregão",
+      "ru": "Орегон",
+      "zh-CN": "俄勒冈州"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 48,
+    "capacity": "412575848",
+    "opened_channel_count": 48,
+    "closed_channel_count": 5,
+    "custom_records": {}
+  },
+  {
+    "public_key": "036a8abe84dc0dbb647c79a897185bcad58d492ec98d0a871df9e67aa8c6e29b79",
+    "alias": "1BTC=1BTC",
+    "first_seen": 1747816323,
+    "updated_at": 1764322799,
+    "color": "#3399ff",
+    "sockets": "d46n6gvm32qczhh43eqayw3hlxpge6id5hai24etfanvmy6uu3rwsjyd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 41,
+    "capacity": "108825171",
+    "opened_channel_count": 41,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "021d2436cab847373a4212bf6d754ead5304f5d0791479643893a837b295f3441c",
+    "alias": "DorianIsMySatoshi",
+    "first_seen": 1565342243,
+    "updated_at": 1760379704,
+    "color": "#3399ff",
+    "sockets": "45.142.235.46:9735,[2a10:3781:2c19::1]:9735,wqbh5jxqgbfxhb7wgjdfzkfcihkgcbvyzivme46x2yrqkdjghx6wesid.onion:9735",
+    "as_number": 206238,
+    "city_id": 2759794,
+    "country_id": 2750405,
+    "subdivision_id": 2749879,
+    "longitude": 4.8975,
+    "latitude": 52.3759,
+    "iso_code": "NL",
+    "as_organization": "Freedom Internet BV",
+    "city": {
+      "en": "Amsterdam",
+      "es": "Ámsterdam",
+      "fr": "Amsterdam",
+      "ja": "Amusuterudamu",
+      "pt-BR": "Amesterdã",
+      "ru": "Амстердам",
+      "zh-CN": "阿姆斯特丹"
+    },
+    "country": {
+      "de": "Niederlande",
+      "en": "Netherlands",
+      "es": "Holanda",
+      "fr": "Pays-Bas",
+      "ja": "オランダ王国",
+      "pt-BR": "Holanda",
+      "ru": "Нидерланды",
+      "zh-CN": "荷兰"
+    },
+    "subdivision": {
+      "de": "Nordholland",
+      "en": "North Holland",
+      "es": "Holanda Septentrional",
+      "fr": "Hollande-Septentrionale",
+      "pt-BR": "Holanda do Norte",
+      "ru": "Северная Голландия"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "80000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008a0008a8a51a1",
+    "active_channel_count": 37,
+    "capacity": "103733054",
+    "opened_channel_count": 37,
+    "closed_channel_count": 2,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02baf6b8593c1e45655072e27efcde1d92b74cff22c9c6b5ed53e0f611678e5e21",
+    "alias": "BNW",
+    "first_seen": 1750252941,
+    "updated_at": 1764323777,
+    "color": "#c75fff",
+    "sockets": "45.63.24.174:27294,vmfvv2jp3twnxr5xldmxqn2sbiloskt7l4ovggqczkcshgrlbcqbljid.onion:9735",
+    "as_number": 20473,
+    "city_id": 2147714,
+    "country_id": 2077456,
+    "subdivision_id": 2155400,
+    "longitude": 151.1897,
+    "latitude": -33.8979,
+    "iso_code": "AU",
+    "as_organization": "AS-CHOOPA",
+    "city": {
+      "de": "Sydney",
+      "en": "Sydney",
+      "es": "Sídney",
+      "fr": "Sydney",
+      "ja": "シドニー",
+      "pt-BR": "Sydney",
+      "ru": "Сидней",
+      "zh-CN": "悉尼"
+    },
+    "country": {
+      "de": "Australien",
+      "en": "Australia",
+      "es": "Australia",
+      "fr": "Australie",
+      "ja": "オーストラリア",
+      "pt-BR": "Austrália",
+      "ru": "Австралия",
+      "zh-CN": "澳大利亚"
+    },
+    "subdivision": {
+      "en": "New South Wales",
+      "fr": "Nouvelle-Galles du Sud",
+      "pt-BR": "Nova Gales do Sul",
+      "ru": "Новый Южный Уэльс"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 61,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 161,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 181,
+        "name": "taproot-channels-staging",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "80000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000002000020000000000000000000000002088a0008a8a51a1",
+    "active_channel_count": 36,
+    "capacity": "756946690",
+    "opened_channel_count": 36,
+    "closed_channel_count": 3,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03d8030d99b91d13728c2005121d3bffc3855b8674cd87319d116622f908fe8319",
+    "alias": "speed8",
+    "first_seen": 1747288834,
+    "updated_at": 1764323599,
+    "color": "#f2f2f2",
+    "sockets": "3.208.164.212:8741",
+    "as_number": 14618,
+    "city_id": 4744870,
+    "country_id": 6252001,
+    "subdivision_id": 6254928,
+    "longitude": -77.4903,
+    "latitude": 39.0469,
+    "iso_code": "US",
+    "as_organization": "AMAZON-AES",
+    "city": {
+      "en": "Ashburn",
+      "ru": "Ашберн"
+    },
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": {
+      "en": "Virginia",
+      "fr": "Virginie",
+      "ja": "バージニア州",
+      "pt-BR": "Virgínia",
+      "ru": "Вирджиния",
+      "zh-CN": "弗吉尼亚州"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 35,
+    "capacity": "1690999998",
+    "opened_channel_count": 35,
+    "closed_channel_count": 11,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03b4b86f2301fe2b9ca478ee5980d812de2071a21a9f8f5bb49b88e29a034e1a9b",
+    "alias": "LATES Edge",
+    "first_seen": 1748991891,
+    "updated_at": 1764323745,
+    "color": "#ff8000",
+    "sockets": "128.199.66.191:17159,2buxgn74ufbbimwtfplxcgaap4fwtq46mco4jga3qnikw5xa45no3zad.onion:9735",
+    "as_number": 14061,
+    "city_id": null,
+    "country_id": 1880251,
+    "subdivision_id": null,
+    "longitude": 103.8547,
+    "latitude": 1.2929,
+    "iso_code": "SG",
+    "as_organization": "DIGITALOCEAN-ASN",
+    "city": null,
+    "country": {
+      "de": "Singapur",
+      "en": "Singapore",
+      "es": "Singapur",
+      "fr": "Singapour",
+      "ja": "シンガポール",
+      "pt-BR": "Singapura",
+      "ru": "Сингапур",
+      "zh-CN": "新加坡"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 181,
+        "name": "taproot-channels-staging",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2025,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      }
+    ],
+    "featuresBits": "280000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000002000000000000000000000000000000088a0008a8a51a1",
+    "active_channel_count": 35,
+    "capacity": "296660477",
+    "opened_channel_count": 35,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "0382d558331b9a0c1d141f56b71094646ad6111e34e197d47385205019b03afdc3",
+    "alias": "⚡Lightning Goats CLN⚡",
+    "first_seen": 1750519058,
+    "updated_at": 1764319518,
+    "color": "#e33502",
+    "sockets": "45.76.234.192:9735,xsp4whqtphjnby335a3ihtje55gidhf4pnv3blrgustplyxfnpsgeuyd.onion:9735",
+    "as_number": 20473,
+    "city_id": 4684888,
+    "country_id": 6252001,
+    "subdivision_id": 4736286,
+    "longitude": -96.8021,
+    "latitude": 32.7889,
+    "iso_code": "US",
+    "as_organization": "AS-CHOOPA",
+    "city": {
+      "de": "Dallas",
+      "en": "Dallas",
+      "es": "Dallas",
+      "fr": "Dallas",
+      "ja": "ダラス",
+      "pt-BR": "Dallas",
+      "ru": "Даллас"
+    },
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": {
+      "en": "Texas",
+      "es": "Texas",
+      "fr": "Texas",
+      "ja": "テキサス州",
+      "ru": "Техас",
+      "zh-CN": "德克萨斯州"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 29,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 43,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 44,
+        "name": "explicit-commitment-type",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8898882a8a59a1",
+    "active_channel_count": 35,
+    "capacity": "165360553",
+    "opened_channel_count": 35,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02ec921faa245b5813385e04a51a6f0e2d99a570ff820bc42b6d1048c278f21216",
+    "alias": "Gewitterwoelkchen",
+    "first_seen": 1637466731,
+    "updated_at": 1764323718,
+    "color": "#898468",
+    "sockets": "82.165.249.174:9735,brdfx623zpb6grrp5toqxn765hv754n3rmdeqtc455qgixhpcn7syeqd.onion:9735",
+    "as_number": 8560,
+    "city_id": 2892794,
+    "country_id": 2921044,
+    "subdivision_id": 2953481,
+    "longitude": 8.3967,
+    "latitude": 48.9677,
+    "iso_code": "DE",
+    "as_organization": "IONOS SE",
+    "city": {
+      "de": "Karlsruhe",
+      "en": "Karlsruhe",
+      "es": "Karlsruhe",
+      "fr": "Karlsruhe",
+      "ja": "カールスルーエ",
+      "pt-BR": "Karlsruhe",
+      "ru": "Карлсруэ",
+      "zh-CN": "卡尔斯鲁厄"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "subdivision": {
+      "de": "Baden-Württemberg",
+      "en": "Baden-Wurttemberg",
+      "es": "Baden-Wurtemberg",
+      "fr": "Bade-Wurtemberg",
+      "ja": "バーデン＝ヴュルテンベルク州",
+      "ru": "Баден-Вюртемберг",
+      "zh-CN": "巴登-符腾堡"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 34,
+    "capacity": "236900000",
+    "opened_channel_count": 34,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "0326dc4323d6072848dac6f9d080a8d7477970b279648cbfc41ccfdf41c89a09d0",
+    "alias": "WASAT",
+    "first_seen": 1744896812,
+    "updated_at": 1764322299,
+    "color": "#ffc533",
+    "sockets": "xaeubschul6hvsdu4viidqiye5z3ems2llhf6csdjn2ysj77sc5qh5id.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 32,
+    "capacity": "7997000",
+    "opened_channel_count": 32,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02adac3835752c1cfe3605b86234bf3e0b700f9327a1acdc2713d56bd6d3bb117f",
+    "alias": "LOWFEE-ROUTER-EU",
+    "first_seen": 1754032449,
+    "updated_at": 1764323336,
+    "color": "#68f442",
+    "sockets": "mki6omndz2jstwfjoxm6nwqedpbuspuqcieyna3heb7wmqe3prsufbid.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 31,
+    "capacity": "16030088",
+    "opened_channel_count": 31,
+    "closed_channel_count": 2,
+    "custom_records": {}
+  },
+  {
+    "public_key": "026e0283d16402b81ce746db852aa8ca84e7735ec95d43f42dc9be3f00dc746b6f",
+    "alias": "clayop",
+    "first_seen": 1665801579,
+    "updated_at": 1764321886,
+    "color": "#0047ab",
+    "sockets": "y3va4y72piustw4fipdmyojl7d4o5pqq4fgm7m5vfstv4fzi74mswjad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 24,
+    "capacity": "41060000",
+    "opened_channel_count": 24,
+    "closed_channel_count": 3,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02b2a16259a015f875adf555dd077eaa2a1b5fe55115c876004bb890675298ad21",
+    "alias": "marote",
+    "first_seen": 1752052420,
+    "updated_at": 1764322138,
+    "color": "#3399ff",
+    "sockets": "yaim5dtesxtbywpji3wt6rqoufqezao3va3b5t27vusqc4nlutqncsid.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 24,
+    "capacity": "14622000",
+    "opened_channel_count": 24,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03d3a70c962b8505a228234fad0443cf88f95cd2cc11b827e075cbb7560d842e98",
+    "alias": "Jimmy's Lightning Rod 🍆",
+    "first_seen": 1711788380,
+    "updated_at": 1764323813,
+    "color": "#b173f5",
+    "sockets": "yug5jamjbopsmbqmoo7bqrfq3expamimilrdecbfsd34ztide6k7eaad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 23,
+    "capacity": "120500000",
+    "opened_channel_count": 23,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "039199b7b5146fa2b0bd00a4c97ccbc4950c079ad5f9f982a8b8f2d8e00c828cd9",
+    "alias": "Thank you Satoshi!",
+    "first_seen": 1672722900,
+    "updated_at": 1764309673,
+    "color": "#039199",
+    "sockets": "74vbwm3oihipp5myp2cqtsw3c5ixgacemjczu5gnoxevyllkhtmjw3id.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 1,
+        "name": "data-loss-protect",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 13,
+        "name": "static-remote-key",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a0800a0a69a2",
+    "active_channel_count": 22,
+    "capacity": "53550288",
+    "opened_channel_count": 22,
+    "closed_channel_count": 2,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03308939665ac715bcc194f760c2e920a9a5059b56e57c0eec63568db47dd85282",
+    "alias": "MCRNDonnager",
+    "first_seen": 1747772486,
+    "updated_at": 1764322781,
+    "color": "#68f442",
+    "sockets": "ghg4xz6pl6c4qhnfgbu4ari3cxrljrhdqqbmvh34uaqzhtx4cachdjad.onion:9735,178.190.216.46:9735",
+    "as_number": 8447,
+    "city_id": 2769625,
+    "country_id": 2782113,
+    "subdivision_id": 2770542,
+    "longitude": 16.3207,
+    "latitude": 47.9717,
+    "iso_code": "AT",
+    "as_organization": "A1 Telekom Austria AG",
+    "city": {
+      "en": "Oberwaltersdorf"
+    },
+    "country": {
+      "de": "Österreich",
+      "en": "Austria",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア共和国",
+      "pt-BR": "Áustria",
+      "ru": "Австрия",
+      "zh-CN": "奥地利"
+    },
+    "subdivision": {
+      "de": "Niederösterreich",
+      "en": "Lower Austria",
+      "es": "Baja Austria",
+      "fr": "Basse-Autriche",
+      "ja": "ニーダーエステライヒ州",
+      "pt-BR": "Baixa Áustria",
+      "ru": "Нижняя Австрия"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 22,
+    "capacity": "43900000",
+    "opened_channel_count": 22,
+    "closed_channel_count": 3,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03d64e760b4af3698e51eb7ed7d97fbbae41f8cd28c0bcb6851c21207922f6697d",
+    "alias": "OnGlide",
+    "first_seen": 1720794363,
+    "updated_at": 1749809342,
+    "color": "#08873b",
+    "sockets": "109.123.246.220:9735,[2a02:c206:2129:6277::1]:9735",
+    "as_number": 51167,
+    "city_id": null,
+    "country_id": 2921044,
+    "subdivision_id": null,
+    "longitude": 9.491,
+    "latitude": 51.2993,
+    "iso_code": "DE",
+    "as_organization": "Contabo GmbH",
+    "city": null,
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a0000a8a59a1",
+    "active_channel_count": 21,
+    "capacity": "165953636",
+    "opened_channel_count": 21,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "0243054886aa6026a4312583bab952dad7723f840d037884d5a72b729fdb52ecbd",
+    "alias": "MCX⚡",
+    "first_seen": 1647241251,
+    "updated_at": 1757545117,
+    "color": "#2bc833",
+    "sockets": "104.152.222.6:33500",
+    "as_number": 397373,
+    "city_id": 5713587,
+    "country_id": 6252001,
+    "subdivision_id": 5744337,
+    "longitude": -121.2984,
+    "latitude": 44.0185,
+    "iso_code": "US",
+    "as_organization": "H4Y-TECHNOLOGIES",
+    "city": {
+      "de": "Bend",
+      "en": "Bend",
+      "ja": "ベンド",
+      "ru": "Бенд",
+      "zh-CN": "本德"
+    },
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": {
+      "de": "Oregon",
+      "en": "Oregon",
+      "es": "Oregón",
+      "fr": "Oregon",
+      "ja": "オレゴン州",
+      "pt-BR": "Oregão",
+      "ru": "Орегон",
+      "zh-CN": "俄勒冈州"
+    },
+    "features": [
+      {
+        "bit": 1,
+        "name": "data-loss-protect",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 13,
+        "name": "static-remote-key",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a0000a0269a2",
+    "active_channel_count": 21,
+    "capacity": "109889430",
+    "opened_channel_count": 21,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "038e49873ba9fc3c0906211e931ecc1f733f9c00b2038b3427bc8e894e32d3ca14",
+    "alias": "Sayo",
+    "first_seen": 1746076559,
+    "updated_at": 1764322072,
+    "color": "#68f442",
+    "sockets": "tca4qgom22dbfa235n6p23iahkpjpsqondplvh57j5p2oqkgxrztj3ad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "80000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000088a0088a8251a1",
+    "active_channel_count": 21,
+    "capacity": "76561010",
+    "opened_channel_count": 21,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "036578a930856b958fa6ee136cf27a1620c48a2280a3315257b33bd1b58174a776",
+    "alias": "Innovative Ibis",
+    "first_seen": 1647289631,
+    "updated_at": 1764312374,
+    "color": "#036578",
+    "sockets": "",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 1,
+        "name": "data-loss-protect",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 13,
+        "name": "static-remote-key",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a000080a69a2",
+    "active_channel_count": 20,
+    "capacity": "416098753",
+    "opened_channel_count": 20,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03af590ebcb9695025d79a17b4f8c6d30faf357a7b8d583a63673a8717cc036c0d",
+    "alias": "ORANGESUCKER-v25.09.2-modded",
+    "first_seen": 1724024527,
+    "updated_at": 1764319246,
+    "color": "#03af59",
+    "sockets": "37.120.155.179:12688",
+    "as_number": 9009,
+    "city_id": 2761369,
+    "country_id": 2782113,
+    "subdivision_id": 2761367,
+    "longitude": 16.3436,
+    "latitude": 48.3016,
+    "iso_code": "AT",
+    "as_organization": "M247 Europe SRL",
+    "city": {
+      "de": "Wien",
+      "en": "Vienna",
+      "es": "Viena",
+      "fr": "Vienne",
+      "pt-BR": "Viena",
+      "ru": "Вена"
+    },
+    "country": {
+      "de": "Österreich",
+      "en": "Austria",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア共和国",
+      "pt-BR": "Áustria",
+      "ru": "Австрия",
+      "zh-CN": "奥地利"
+    },
+    "subdivision": {
+      "de": "Wien",
+      "en": "Vienna",
+      "es": "Viena",
+      "fr": "Vienne",
+      "pt-BR": "Viana",
+      "ru": "Вена"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 43,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 44,
+        "name": "explicit-commitment-type",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8898880a8a59a1",
+    "active_channel_count": 20,
+    "capacity": "177350890",
+    "opened_channel_count": 20,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "028b4b33c0d31f823e5e9939e96eb96c35be45cea985f72670af08803c6f77cf50",
+    "alias": "RumOgLyn",
+    "first_seen": 1746988327,
+    "updated_at": 1764323103,
+    "color": "#6666f2",
+    "sockets": "5.75.184.195:46766,6pfxr5cq33sn7wwablazrqlbpmpoms3ud5zykr4b6clzpbftjnmiread.onion:9735",
+    "as_number": 24940,
+    "city_id": null,
+    "country_id": 2921044,
+    "subdivision_id": null,
+    "longitude": 9.491,
+    "latitude": 51.2993,
+    "iso_code": "DE",
+    "as_organization": "Hetzner Online GmbH",
+    "city": null,
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 20,
+    "capacity": "48600000",
+    "opened_channel_count": 20,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "033d7e7054f29818f9eddc9b7960dea7aee7d58b23f36f10fb7103247c82e920cd",
+    "alias": "Vankoewst",
+    "first_seen": 1687183828,
+    "updated_at": 1764323483,
+    "color": "#3399ff",
+    "sockets": "dphktasgsrl2t3sip2xsscjolibqyf4u434lcr3tpt24t342irttppid.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 19,
+    "capacity": "23430155",
+    "opened_channel_count": 19,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02c3ffc714b9ea194ec3f4fb46fa08bb0da1430584a60fb2177877fc7434af9b14",
+    "alias": "🌛m00ninite🌛",
+    "first_seen": 1605824722,
+    "updated_at": 1764322488,
+    "color": "#68f442",
+    "sockets": "ubz7rzqjbmm4prhh76qbi74py5v5d3bziluhimcuqh4fdglbd6qej2yd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 18,
+    "capacity": "192173373",
+    "opened_channel_count": 18,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "036b4e5674ce643681269f05fb73b03333b176e123d45951aa22ad814f70a1e526",
+    "alias": "SatoshisSlave",
+    "first_seen": 1743314766,
+    "updated_at": 1764323845,
+    "color": "#50ff33",
+    "sockets": "16.171.84.93:9735,jgnmv3imm5c6vhxzgmedoomrwakuhyjhdhnmkazyaid5he2af55klyad.onion:9735",
+    "as_number": 16509,
+    "city_id": 2673730,
+    "country_id": 2661886,
+    "subdivision_id": 2673722,
+    "longitude": 18.0717,
+    "latitude": 59.3287,
+    "iso_code": "SE",
+    "as_organization": "AMAZON-02",
+    "city": {
+      "de": "Stockholm",
+      "en": "Stockholm",
+      "es": "Estocolmo",
+      "fr": "Stockholm",
+      "ja": "ストックホルム",
+      "pt-BR": "Estocolmo",
+      "ru": "Стокгольм",
+      "zh-CN": "斯德哥尔摩"
+    },
+    "country": {
+      "de": "Schweden",
+      "en": "Sweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン王国",
+      "pt-BR": "Suécia",
+      "ru": "Швеция",
+      "zh-CN": "瑞典"
+    },
+    "subdivision": {
+      "de": "Stockholm",
+      "en": "Stockholm County",
+      "fr": "Stockholm"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 18,
+    "capacity": "69000000",
+    "opened_channel_count": 18,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "036902961705888f6f8897ffa99d1fe66dd539e2be8bac59dedb9b8ca717031428",
+    "alias": "LigthningPhoenix2063",
+    "first_seen": 1670716364,
+    "updated_at": 1764322279,
+    "color": "#3399ff",
+    "sockets": "2h4r4iytytzufx4vf5nhaqhc7xhc2r7rwtg6fkr547uamk5hofpvlayd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8a51a1",
+    "active_channel_count": 18,
+    "capacity": "27827664",
+    "opened_channel_count": 18,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02cd546a60230b5d5c603bf79ff344afaf071cd42438bdd7846a5de4595c1ef304",
+    "alias": "eXch",
+    "first_seen": 1695870036,
+    "updated_at": 1743180284,
+    "color": "#02cd54",
+    "sockets": "xb5ji5m47tsscivs2c5ogljszxynmpm3ufnsefpavqqfpcd2it7ceoid.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 6,
+        "name": "gossip-queries",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 29,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a0802a8a5961",
+    "active_channel_count": 17,
+    "capacity": "470211782",
+    "opened_channel_count": 17,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "0313bae3a7d09d7f1a7ff595918567ba39e503789884d003036a88f7fcea3ec66f",
+    "alias": "YELLOWWAFFLE",
+    "first_seen": 1654395327,
+    "updated_at": 1764320110,
+    "color": "#baab04",
+    "sockets": "88.198.91.246:9735,yehizkxkj7s5arvdo7anem7u427e4julgmdbtliea23kaafguahi4dyd.onion:9735",
+    "as_number": 24940,
+    "city_id": null,
+    "country_id": 2921044,
+    "subdivision_id": null,
+    "longitude": 9.491,
+    "latitude": 51.2993,
+    "iso_code": "DE",
+    "as_organization": "Hetzner Online GmbH",
+    "city": null,
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 29,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 43,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 63,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      }
+    ],
+    "featuresBits": "8088a8882a8a59a1",
+    "active_channel_count": 17,
+    "capacity": "162784658",
+    "opened_channel_count": 17,
+    "closed_channel_count": 2,
+    "custom_records": {
+      "1": "029a00320001000003e8"
+    }
+  },
+  {
+    "public_key": "028fce1b96d813f5b2b67667da98051dea6e64dbe0dc834ee8121df556724be9d4",
+    "alias": "And1129",
+    "first_seen": 1743128054,
+    "updated_at": 1764322104,
+    "color": "#68f442",
+    "sockets": "uk3vurpr4dq7kswjviwmxhk3gnu4hvicj2ibfcxclunmzgsc4uly5lad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 17,
+    "capacity": "47249999",
+    "opened_channel_count": 17,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "021172f566b30058a017d066eaf0f08399f9bab8c9259aa54ad3127f5fa5a45b92",
+    "alias": "Sats Router",
+    "first_seen": 1754359440,
+    "updated_at": 1764320350,
+    "color": "#4ff44a",
+    "sockets": "35yaqbrljslqi7lfwvg7pm265ilfia7pb6popchsyeevutx5c2qwojqd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 181,
+        "name": "taproot-channels-staging",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000200000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 16,
+    "capacity": "50914627",
+    "opened_channel_count": 16,
+    "closed_channel_count": 1,
+    "custom_records": {}
+  },
+  {
+    "public_key": "029627377f711902637d34fa3bbd9d32e0ba2382c237f07f1d670931b648f7dbf0",
+    "alias": "LightMix",
+    "first_seen": 1721840053,
+    "updated_at": 1764317399,
+    "color": "#00a54f",
+    "sockets": "vwaxebxbgtnzf4cmy6vlse5gjkjdrueounic2jem2ddskvgi5xpm2lqd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 16,
+    "capacity": "11500000",
+    "opened_channel_count": 16,
+    "closed_channel_count": 2,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03aff30d4d285a44fd5b33cc1fad42b2fe8201450f5db687c357c2c22f279551f0",
+    "alias": "Corn🌽Joseph",
+    "first_seen": 1748706461,
+    "updated_at": 1764323816,
+    "color": "#ffff77",
+    "sockets": "xzbswnptwx5nd35tu6bog3lwjefelnzmxqb2rau6siqn7cpqve2y2ryd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 16,
+    "capacity": "9751764",
+    "opened_channel_count": 16,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02cea30224b6b674bf0082a7ea8eff26a6983cc2cae5d2e27535aebdced3f8d6ef",
+    "alias": "Chorus",
+    "first_seen": 1747856038,
+    "updated_at": 1764318961,
+    "color": "#3399ff",
+    "sockets": "104.248.254.144:9735",
+    "as_number": 14061,
+    "city_id": 2925533,
+    "country_id": 2921044,
+    "subdivision_id": 2905330,
+    "longitude": 8.6843,
+    "latitude": 50.1188,
+    "iso_code": "DE",
+    "as_organization": "DIGITALOCEAN-ASN",
+    "city": {
+      "de": "Frankfurt am Main",
+      "en": "Frankfurt am Main",
+      "es": "Francfort",
+      "fr": "Francfort-sur-le-Main",
+      "ja": "フランクフルト・アム・マイン",
+      "pt-BR": "Frankfurt am Main",
+      "ru": "Франкфурт",
+      "zh-CN": "法兰克福"
+    },
+    "country": {
+      "de": "Deutschland",
+      "en": "Germany",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ連邦共和国",
+      "pt-BR": "Alemanha",
+      "ru": "ФРГ",
+      "zh-CN": "德国"
+    },
+    "subdivision": {
+      "de": "Hessen",
+      "en": "Hesse",
+      "es": "Hessen",
+      "fr": "Hesse",
+      "ru": "Гессен"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 181,
+        "name": "taproot-channels-staging",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000008020008a8a51a1",
+    "active_channel_count": 15,
+    "capacity": "65815827",
+    "opened_channel_count": 15,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "031054617ea79560ebe492873a1cc0f49d8466d10870a0731ab4e4beb4343909cc",
+    "alias": "vajra",
+    "first_seen": 1613211738,
+    "updated_at": 1764296168,
+    "color": "#3399ff",
+    "sockets": "3cn5saoh6d2qyyjqne6zdg5ry54pgi7omygmjbtdeditrdztr4n6inqd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8a51a1",
+    "active_channel_count": 14,
+    "capacity": "198958901",
+    "opened_channel_count": 14,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "033fe7c583d44f5fa4cb42bbee5d86f35de1ed55f2246fbf3b26c98a7ae5bbaeee",
+    "alias": "node.runner-01.bsb∴",
+    "first_seen": 1690149593,
+    "updated_at": 1764323871,
+    "color": "#b11393",
+    "sockets": "216.238.101.90:36121,45dghx2fy4v6h5oz227y2hkgw4gtz3fmqcvhdtj2n2fw36yd3izbp4id.onion:9735",
+    "as_number": 20473,
+    "city_id": 3448439,
+    "country_id": 3469034,
+    "subdivision_id": 3448433,
+    "longitude": -46.6359,
+    "latitude": -23.5335,
+    "iso_code": "BR",
+    "as_organization": "AS-CHOOPA",
+    "city": {
+      "de": "São Paulo",
+      "en": "São Paulo",
+      "es": "São Paulo",
+      "fr": "São Paulo",
+      "ja": "サンパウロ",
+      "pt-BR": "São Paulo",
+      "ru": "Сан-Паулу"
+    },
+    "country": {
+      "de": "Brasilien",
+      "en": "Brazil",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル連邦共和国",
+      "pt-BR": "Brasil",
+      "ru": "Бразилия",
+      "zh-CN": "巴西"
+    },
+    "subdivision": {
+      "en": "Sao Paulo",
+      "es": "São Paulo",
+      "pt-BR": "São Paulo"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8a51a1",
+    "active_channel_count": 14,
+    "capacity": "28264114",
+    "opened_channel_count": 14,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "021eead640635e68fb5f4ea4a4f175525c77b7c35a5ca56c188ccbb021ed0c0e13",
+    "alias": "021eead640635e68fb5f",
+    "first_seen": 1744579296,
+    "updated_at": 1764323332,
+    "color": "#3399ff",
+    "sockets": "45.134.174.226:9735",
+    "as_number": 43641,
+    "city_id": null,
+    "country_id": 690791,
+    "subdivision_id": null,
+    "longitude": 30.5287,
+    "latitude": 50.4522,
+    "iso_code": "UA",
+    "as_organization": "SOLLUTIUM EU Sp z.o.o.",
+    "city": null,
+    "country": {
+      "de": "Ukraine",
+      "en": "Ukraine",
+      "es": "Ucrania",
+      "fr": "Ukraine",
+      "ja": "ウクライナ共和国",
+      "pt-BR": "Ucrânia",
+      "ru": "Украина",
+      "zh-CN": "乌克兰"
+    },
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8251a1",
+    "active_channel_count": 14,
+    "capacity": "17200000",
+    "opened_channel_count": 14,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "027fa5d82ae86515412af3d361df8bc2c242d8fe92e6d488612964108c5797e5e4",
+    "alias": "HOPPINGMONKEY",
+    "first_seen": 1733606777,
+    "updated_at": 1756409621,
+    "color": "#027fa5",
+    "sockets": "188.245.233.137:9993",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 29,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 63,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      }
+    ],
+    "featuresBits": "8088a0882a8a59a1",
+    "active_channel_count": 13,
+    "capacity": "1359549309",
+    "opened_channel_count": 13,
+    "closed_channel_count": 0,
+    "custom_records": {
+      "1": "029a00410005000007d0"
+    }
+  },
+  {
+    "public_key": "0294162456fd6b71f7f7eb8b3510d0740094556b601a2fbcb1d4c040c46c4e57a6",
+    "alias": "naglfar",
+    "first_seen": 1650501594,
+    "updated_at": 1736947943,
+    "color": "#029416",
+    "sockets": "lamndnpasyotq27pjexvh44zdseigorh5uyqnxnw76hzcoj3iqqx55yd.onion:9736",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a0880a8a59a1",
+    "active_channel_count": 13,
+    "capacity": "110522406",
+    "opened_channel_count": 13,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03de68d2d4ced8dd71f0e245b96dc0079823941becad017e82313cf44016c1a71e",
+    "alias": "FeedYourHead",
+    "first_seen": 1649507008,
+    "updated_at": 1764320244,
+    "color": "#03de68",
+    "sockets": "jywpwowxyqqefjynkdvmhn3zwdfplkebcld36jeskcaoohqaweo3rjqd.onion:9736",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 43,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "88a8880a8a59a1",
+    "active_channel_count": 13,
+    "capacity": "15697576",
+    "opened_channel_count": 13,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03c9b47af55d8c13dc4c764e5d0e6a02b7498160f7533f015bf0c107dec00c008b",
+    "alias": "Syndicate ~ ИetworK",
+    "first_seen": 1590526188,
+    "updated_at": 1708400212,
+    "color": "#3399ff",
+    "sockets": "tseg62hsdadl56wkyiujbxxzqiuck74izoch4jhfmlhjdcjfttsnpgad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 9,
+        "name": "tlv-onion",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000802000888a52a1",
+    "active_channel_count": 12,
+    "capacity": "150532874",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03457c295a1fce1b2293fd0bc13b373660ca6cb4f9608a03299657b2204dbb43a0",
+    "alias": "03457c295a1fce1b2293",
+    "first_seen": 1622091462,
+    "updated_at": 1653371845,
+    "color": "#3399ff",
+    "sockets": "ux7nvihgpt25fuui7dyv5dnrbeyap2oxmt6xtrhqh36tk76e7gierlyd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 9,
+        "name": "tlv-onion",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000808252a1",
+    "active_channel_count": 12,
+    "capacity": "42000000",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "0291ecafce783027afd4ab2739073d67622e06f1aa53c03b5b11e39fb7b385f88a",
+    "alias": "0291ecafce783027afd4",
+    "first_seen": 1743023530,
+    "updated_at": 1764318330,
+    "color": "#3399ff",
+    "sockets": "pfnv2vlwmdjw24gmtkt3i7uforvnthdxahviwe6hun5m3xzhwmpqirad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 12,
+    "capacity": "30000000",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "037b5a8f05826a2ec892839170bbdcb30efeaa1f3368a6cf12b482cbc16553b5f3",
+    "alias": "ANGRYCHEF",
+    "first_seen": 1752068864,
+    "updated_at": 1764319746,
+    "color": "#037b5a",
+    "sockets": "121.221.154.193:9735",
+    "as_number": 1221,
+    "city_id": 2158177,
+    "country_id": 2077456,
+    "subdivision_id": 2145234,
+    "longitude": 144.9799,
+    "latitude": -37.8411,
+    "iso_code": "AU",
+    "as_organization": "Telstra Corporation Ltd",
+    "city": {
+      "de": "Melbourne",
+      "en": "Melbourne",
+      "es": "Melbourne",
+      "fr": "Melbourne",
+      "ja": "メルボルン",
+      "pt-BR": "Melbourne",
+      "ru": "Мельбурн",
+      "zh-CN": "墨尔本"
+    },
+    "country": {
+      "de": "Australien",
+      "en": "Australia",
+      "es": "Australia",
+      "fr": "Australie",
+      "ja": "オーストラリア",
+      "pt-BR": "Austrália",
+      "ru": "Австралия",
+      "zh-CN": "澳大利亚"
+    },
+    "subdivision": {
+      "en": "Victoria",
+      "pt-BR": "Vitória",
+      "ru": "Виктория"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 11,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 35,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 39,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 43,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 44,
+        "name": "explicit-commitment-type",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 47,
+        "name": "scid-alias",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 51,
+        "name": "zero-conf",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8898880a8a59a1",
+    "active_channel_count": 12,
+    "capacity": "21125515",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "031e47777e35627e1018bc886ee24f81633a54527cfce24df0183a8fee7b3a24ef",
+    "alias": "SKYRUS",
+    "first_seen": 1536810852,
+    "updated_at": 1764322700,
+    "color": "#00b36b",
+    "sockets": "108.225.35.253:9735",
+    "as_number": 7018,
+    "city_id": 4684888,
+    "country_id": 6252001,
+    "subdivision_id": 4736286,
+    "longitude": -96.8022,
+    "latitude": 32.7797,
+    "iso_code": "US",
+    "as_organization": "ATT-INTERNET4",
+    "city": {
+      "de": "Dallas",
+      "en": "Dallas",
+      "es": "Dallas",
+      "fr": "Dallas",
+      "ja": "ダラス",
+      "pt-BR": "Dallas",
+      "ru": "Даллас"
+    },
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": {
+      "en": "Texas",
+      "es": "Texas",
+      "fr": "Texas",
+      "ja": "テキサス州",
+      "ru": "Техас",
+      "zh-CN": "德克萨斯州"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 19,
+        "name": "wumbo-channels",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000020008a8a51a1",
+    "active_channel_count": 12,
+    "capacity": "19935362",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "0230b4b96e83baf6b2baa4d583a5baa5eb1fe862b658863491e417a41b11e3c797",
+    "alias": "Agenda 2140",
+    "first_seen": 1725482111,
+    "updated_at": 1764318751,
+    "color": "#ffd833",
+    "sockets": "wrcqercix64cws4toh37qgzbl7h6yr3ra4hzs2b3tmtscp23atagshad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 12,
+    "capacity": "7100000",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "02f575a99e9b390ddbb5b01b49b3c4e9e7f5af2da33e9d9b89d665cfebf2f33b99",
+    "alias": "Jp_Digital",
+    "first_seen": 1742682435,
+    "updated_at": 1764323452,
+    "color": "#a0a0b0",
+    "sockets": "btcmjzt6na664we32j3amdmsqoyau2dqk3jvzwwzvecpnndaikzlkpad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 12,
+    "capacity": "4280000",
+    "opened_channel_count": 12,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "03ab94b44f23b98668cc1d0f01fe6a4a41791660c14a66058c653a7da142b0ef22",
+    "alias": "03ab94b44f23b98668cc",
+    "first_seen": 1718498386,
+    "updated_at": 1764308557,
+    "color": "#3399ff",
+    "sockets": "5dox4cpdqzzgqook752nwnq4xkj3wvqbi5mpfyy7rqvqv2m5q3lxmbad.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 11,
+    "capacity": "48170000",
+    "opened_channel_count": 11,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "026d1de80e59f3fe2b27aa3dc8012f4437165bf99971bd9b7d8afedb066f92d695",
+    "alias": "MoonDust",
+    "first_seen": 1622854224,
+    "updated_at": 1764323741,
+    "color": "#99d6d3",
+    "sockets": "f6mjfz5px6e54onfdlb7nzatiigoxwuhs4scal3wdserovnveh2wuvyd.onion:9735",
+    "as_number": null,
+    "city_id": null,
+    "country_id": null,
+    "subdivision_id": null,
+    "longitude": null,
+    "latitude": null,
+    "iso_code": null,
+    "as_organization": null,
+    "city": null,
+    "country": null,
+    "subdivision": null,
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 8,
+        "name": "tlv-onion",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 25,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 55,
+        "name": "keysend",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 261,
+        "name": "unknown",
+        "is_required": false,
+        "is_known": false
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000008020008a8251a1",
+    "active_channel_count": 11,
+    "capacity": "16800000",
+    "opened_channel_count": 11,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  },
+  {
+    "public_key": "031bea0d812673900bb9249eab6dd98aebadd750e22f4f750142e05b0a113aebf0",
+    "alias": "⚡Jozzy⚡🍩",
+    "first_seen": 1614731922,
+    "updated_at": 1721527223,
+    "color": "#55dde0",
+    "sockets": "76.240.162.156:9735",
+    "as_number": 7018,
+    "city_id": 5387152,
+    "country_id": 6252001,
+    "subdivision_id": 5332921,
+    "longitude": -118.5371,
+    "latitude": 34.1979,
+    "iso_code": "US",
+    "as_organization": "ATT-INTERNET4",
+    "city": {
+      "en": "Reseda"
+    },
+    "country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States",
+      "es": "Estados Unidos",
+      "fr": "États Unis",
+      "ja": "アメリカ",
+      "pt-BR": "EUA",
+      "ru": "США",
+      "zh-CN": "美国"
+    },
+    "subdivision": {
+      "de": "Kalifornien",
+      "en": "California",
+      "es": "California",
+      "fr": "Californie",
+      "ja": "カリフォルニア州",
+      "pt-BR": "Califórnia",
+      "ru": "Калифорния",
+      "zh-CN": "加州"
+    },
+    "features": [
+      {
+        "bit": 0,
+        "name": "data-loss-protect",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 5,
+        "name": "upfront-shutdown-script",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 7,
+        "name": "gossip-queries",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 9,
+        "name": "tlv-onion",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 12,
+        "name": "static-remote-key",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 14,
+        "name": "payment-addr",
+        "is_required": true,
+        "is_known": true
+      },
+      {
+        "bit": 17,
+        "name": "multi-path-payments",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 23,
+        "name": "anchors-zero-fee-htlc-tx",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 27,
+        "name": "shutdown-any-segwit",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 31,
+        "name": "amp",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 45,
+        "name": "explicit-commitment-type",
+        "is_required": false,
+        "is_known": true
+      },
+      {
+        "bit": 2023,
+        "name": "script-enforced-lease",
+        "is_required": false,
+        "is_known": true
+      }
+    ],
+    "featuresBits": "800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000888252a1",
+    "active_channel_count": 11,
+    "capacity": "1195507",
+    "opened_channel_count": 11,
+    "closed_channel_count": 0,
+    "custom_records": {}
+  }
+]
