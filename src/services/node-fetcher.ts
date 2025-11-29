@@ -1,4 +1,4 @@
-import { RestClient, ApiResponse } from '../clients/rest-client';
+import { RestClient } from '../clients/rest-client';
 import { NodeData } from '../data/mempool-node-data';
 
 export class NodeFetcher {
